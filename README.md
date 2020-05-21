@@ -1,2 +1,4 @@
-# kn-demos-spec
-Specification for demo apps that can be used to showcase Knative functionalities
+# Scooter demo specification
+
+Specification for demo apps that can be used to showcase modern cloud native 
+microserives.
