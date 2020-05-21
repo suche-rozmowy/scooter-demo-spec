@@ -1,5 +1,7 @@
 # Scooter demo specification
 
+![Kiwi Scooter's mock logo](https://d29fhpw069ctt2.cloudfront.net/icon/image/85176/preview.svg)
+
 Specification for demo apps that can be used to showcase modern cloud native
 microserives.
 
